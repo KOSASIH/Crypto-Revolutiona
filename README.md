@@ -4,5 +4,7 @@
 
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Crypto-Revolutiona.svg/?label=active+issues&show_trend=true&token=Mr4MQ4IugT1rkOxZqunw3Yeu)](https://deepsource.io/gh/KOSASIH/Crypto-Revolutiona/?ref=repository-badge)
 
+[![CircleCI](https://circleci.com/gh/KOSASIH/Crypto-Revolutiona/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/Crypto-Revolutiona/tree/main)
+
 # Crypto-Revolutiona
 Marketplace for new innovations in blockchain technology and Crypto currency, NFT, API's and mining technology.
