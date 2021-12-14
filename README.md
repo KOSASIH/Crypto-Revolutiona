@@ -2,5 +2,7 @@
 
 [![Documentation Status](https://readthedocs.org/projects/crypto-revolutiona/badge/?version=latest)](https://crypto-revolutiona.readthedocs.io/en/latest/?badge=latest)
 
+[![DeepSource](https://deepsource.io/gh/KOSASIH/Crypto-Revolutiona.svg/?label=active+issues&show_trend=true&token=Mr4MQ4IugT1rkOxZqunw3Yeu)](https://deepsource.io/gh/KOSASIH/Crypto-Revolutiona/?ref=repository-badge)
+
 # Crypto-Revolutiona
 Marketplace for new innovations in blockchain technology and Crypto currency, NFT, API's and mining technology.
