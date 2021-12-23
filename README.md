@@ -7,6 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Crypto-Revolutiona)](https://github.com/KOSASIH/Crypto-Revolutiona/stargazers)
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/Crypto-Revolutiona)](https://github.com/KOSASIH/Crypto-Revolutiona/blob/main/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FCrypto-Revolutiona%2Fedit%2Fmain%2FREADME.md)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5480/badge)](https://bestpractices.coreinfrastructure.org/projects/5480)
 
 # Crypto-Revolutiona
 Marketplace for new innovations in blockchain technology and Crypto currency, NFT, API's and mining technology.
