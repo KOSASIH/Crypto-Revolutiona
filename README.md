@@ -9,5 +9,8 @@
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FCrypto-Revolutiona%2Fedit%2Fmain%2FREADME.md)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5480/badge)](https://bestpractices.coreinfrastructure.org/projects/5480)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
+
+
 # Crypto-Revolutiona
 Marketplace for new innovations in blockchain technology and Crypto currency, NFT, API's and mining technology.
