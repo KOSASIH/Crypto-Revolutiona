@@ -14,5 +14,8 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSASIH&theme=blue-green)
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=KOSASIH/Crypto-Revolutiona)
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 # Crypto-Revolutiona
 Marketplace for new innovations in blockchain technology and Crypto currency, NFT, API's and mining technology.
