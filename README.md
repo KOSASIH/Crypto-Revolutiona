@@ -12,6 +12,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSASIH&theme=blue-green)
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=KOSASIH/Crypto-Revolutiona)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KOSASIH&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
