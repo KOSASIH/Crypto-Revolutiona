@@ -25,3 +25,6 @@ Marketplace for new innovations in blockchain technology and Crypto currency, NF
 
 # Get your STRAX wallet here :
 https://www.stratisplatform.com/wallets/?amp=1#
+
+# Check out our marketeplace here :
+https://artichs.54nft.io/login
