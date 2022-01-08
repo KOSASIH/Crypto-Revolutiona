@@ -22,3 +22,6 @@
 
 # Crypto-Revolutiona
 Marketplace for new innovations in blockchain technology and Crypto currency, NFT, API's and mining technology.
+
+# Get your STRAX wallet here :
+https://www.stratisplatform.com/wallets/?amp=1#
